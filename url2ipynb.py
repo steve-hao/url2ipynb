@@ -40,7 +40,7 @@ def url2ipynb(url,outfile):
 if __name__ == '__main__':
    
     if len(sys.argv) < 2:
-        print('Usage: url2ipynb url outputfile')
+        print('Usage: url2ipynb url|filename outputfile')
     else:
         url2ipynb(sys.argv[0], sys.argv[1])
     
