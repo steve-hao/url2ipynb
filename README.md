@@ -4,7 +4,7 @@ url2ipynb is a Python script that converts HTML (export by Jupyter Notebook) fro
 
 ``` 
 Usage: Usage: url2ipynb url|filename outputfile
-···
+```
 
 URL must start with http:// or https:// 
 
