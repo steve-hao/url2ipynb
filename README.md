@@ -22,4 +22,4 @@ outfile='Peak_Finding.ipynb'
 url2ipynb.url2ipynb(url,outfile)
 
 ```
-You can try it with this Web [plotly-express] (https://plot.ly/python/plotly-express/)
+You can try it with this Web [plotly-express](https://plot.ly/python/plotly-express/)
